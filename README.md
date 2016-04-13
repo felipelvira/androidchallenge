@@ -43,9 +43,16 @@ Your time is valuable and we understand that.  Our goal is for you to spend abou
 Please answer the following in about a paragraph.
 
 1.  How long did you spend on completing this challenge?
+    - + 3 hours.
 2.  How far were you at 3 hours?
+    - 80%, i got stuck understanding the API. 
 3.  What needs to be finished/fixed for this to be use in a production app?
+    - Get a better use of error handling. Also a better design.
 4.  What did you think of this challenge?
+    - It was an interesting challenge, its a simplified version of what you normally use developing an Android Application.
 5.  What part was unclear?
+    - Understanding The Dark Sky Forecast took me more than spected.
 6.  What could we do to make this challenge better?
+    - Well, maybe sources for the design (and a clear mock up).
 7.  What did we forget to test you on?
+    - I have experience working with image processing. But i think you covered almost everything for Android.
